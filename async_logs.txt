@@ -1,0 +1,18 @@
+[2025-03-05 12:39:50] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:39:50] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:39:50] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:39:50] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:39:51] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:39:51] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:40:10] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:40:10] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:40:10] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:40:10] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:40:10] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:40:10] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:48:51] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:48:51] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:48:51] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:48:51] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:48:51] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:48:52] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200

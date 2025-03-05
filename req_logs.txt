@@ -1,0 +1,30 @@
+[2025-03-05 12:39:47] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:39:47] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:39:47] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:39:48] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:39:48] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:39:48] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:40:07] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:40:07] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:40:07] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:40:07] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:40:07] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:40:08] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:43:48] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:43:49] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:43:49] Помилка при запиті до https://lms.cbs.com.ua/mod/assign/view.php?id=2095: cannot access local variable 'e' where it is not associated with a value
+[2025-03-05 12:44:29] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:44:30] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:44:30] Помилка при запиті до https://lms.cbs.com.ua/mod/assign/view.php?id=2095: cannot access local variable 'e' where it is not associated with a value
+[2025-03-05 12:44:30] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:44:30] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:44:30] Помилка при запиті до https://github.com/olga-budickaja/homework_05022025: cannot access local variable 'e' where it is not associated with a value
+[2025-03-05 12:44:30] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:44:30] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200
+[2025-03-05 12:44:30] Помилка при запиті до https://jsonplaceholder.typicode.com/posts/1: cannot access local variable 'e' where it is not associated with a value
+[2025-03-05 12:47:02] Запит до https://lms.cbs.com.ua/mod/assign/view.php?id=2095 розпочато
+[2025-03-05 12:47:02] Відповідь для https://lms.cbs.com.ua/mod/assign/view.php?id=2095 отримано зі статусом 200
+[2025-03-05 12:47:02] Запит до https://github.com/olga-budickaja/homework_05022025 розпочато
+[2025-03-05 12:47:03] Відповідь для https://github.com/olga-budickaja/homework_05022025 отримано зі статусом 200
+[2025-03-05 12:47:03] Запит до https://jsonplaceholder.typicode.com/posts/1 розпочато
+[2025-03-05 12:47:03] Відповідь для https://jsonplaceholder.typicode.com/posts/1 отримано зі статусом 200

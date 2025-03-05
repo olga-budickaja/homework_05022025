@@ -1,0 +1,6 @@
+2025-03-05 12:48:51 - INFO - Request to https://lms.cbs.com.ua/mod/assign/view.php?id=2095 started
+2025-03-05 12:48:51 - INFO - Request to https://github.com/olga-budickaja/homework_05022025 started
+2025-03-05 12:48:51 - INFO - Request to https://jsonplaceholder.typicode.com/posts/1 started
+2025-03-05 12:48:51 - INFO - Response for https://jsonplaceholder.typicode.com/posts/1 received with status 200
+2025-03-05 12:48:51 - INFO - Response for https://github.com/olga-budickaja/homework_05022025 received with status 200
+2025-03-05 12:48:52 - INFO - Response for https://lms.cbs.com.ua/mod/assign/view.php?id=2095 received with status 200
